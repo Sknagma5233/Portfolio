@@ -54,12 +54,6 @@ function Skill() {
               <span className="font-semibold text-cyan-400">Other:</span> Python
               (Basics)
             </div>
-            <div>
-              <span className="font-semibold text-cyan-400">
-                Currently Learning:
-              </span>{" "}
-              TypeScript, Next.js
-            </div>
           </div>
         </div>
 

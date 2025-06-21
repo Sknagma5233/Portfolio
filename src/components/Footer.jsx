@@ -12,7 +12,7 @@ function Footer() {
         {/* Social Links */}
         <div className="flex gap-6 mt-2">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Sknagma5233"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-cyan-400 transition text-2xl"
@@ -20,7 +20,7 @@ function Footer() {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/nagma-shaikh-2a1382321/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-cyan-400 transition text-2xl"
@@ -28,7 +28,7 @@ function Footer() {
             <FaLinkedin />
           </a>
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:sknagma5233@gmail.com"
             className="text-white hover:text-cyan-400 transition text-2xl"
           >
             <FaEnvelope />
