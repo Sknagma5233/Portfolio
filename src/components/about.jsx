@@ -70,10 +70,10 @@ function About() {
       <div className="bg-[#1a1254] p-6 rounded-2xl border border-cyan-400 shadow-[0_0_20px_rgba(0,255,255,0.2)] hover:shadow-[0_0_30px_rgba(0,255,255,0.4)] transition-all duration-300">
         <h3 className="text-xl font-semibold mb-4 flex items-center gap-2">
           <FaGraduationCap className="text-cyan-400" size={24} />
-          Graduation – B.Sc. Computer Science
+          Graduation – B.Sc.IT 
         </h3>
         <p className="mb-1 flex items-center gap-2">
-          <FaUniversity className="text-cyan-300" /> <strong>College:</strong> Guru Nanak Khalsa College, Mumbai University
+          <FaUniversity className="text-cyan-300" /> <strong>College:</strong> RD National College, Mumbai University
         </p>
         <p className="mb-1 flex items-center gap-2">
           <FaCalendarAlt className="text-cyan-300" /> <strong>Years:</strong> 2022 – 2025
