@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family: 'poppins' , sans-serif;
+}
+body {
+  background-color:#0d0635;
+  color: #ededed;
+  overflow-x: hidden;
+}
+.custom-link{
+  @apply relative text-white text-lg font-medium ml-6 after:absolute after:left-0 after:bottom-[-8px] after:w-0 after:h-1 after:bg-cyan-400 after:transition-all after:duration-300 hover:after:w-full focus:after:w-full active:after:w-full
+}
