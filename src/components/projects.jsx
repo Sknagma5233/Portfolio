@@ -11,8 +11,8 @@ const projectList = [
   title: "Turf Booking Management Website",
   image: TurfImage,
   description:
-    "A feature-rich full-stack MERN Turf Booking App with role-based access for users and admins. Includes real-time turf booking, secure authentication, chatbot integration, dark mode, live weather updates, booking history, and a fully responsive design optimized for all devices.\n\nTech Stack: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT\n\n⚠️ Note: This project is currently not deployed due to some errors, but it runs perfectly on a local setup and can be shown on a laptop.",
-  liveLink: "#",
+    "A feature-rich full-stack MERN Turf Booking App with role-based access for users and admins. Includes real-time turf booking, secure authentication, chatbot integration, dark mode, live weather updates, booking history, and a fully responsive design optimized for all devices.\n\nTech Stack: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT",
+  liveLink: "https://kick-on-turf-player.onrender.com",
   codeLink: "https://github.com/Turf-Management-Booking-System/Turf-Management-Booking-System-Website",
 },
   {

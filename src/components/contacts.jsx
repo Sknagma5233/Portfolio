@@ -95,7 +95,7 @@ function Contacts() {
               <FaInstagram /> Instagram
             </a>
             <a
-              href="https://www.linkedin.com/in/nagma-shaikh-2a1382321/"
+              href="https://www.linkedin.com/in/shaikhnagma5233/"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 border-2 border-cyan-400 px-4 py-2 rounded-full hover:bg-cyan-400 hover:text-black transition duration-300"

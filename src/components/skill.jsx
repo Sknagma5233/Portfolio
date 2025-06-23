@@ -16,7 +16,7 @@ function Skill() {
           <div className="bg-[#1a1254] mt-10 p-6 rounded-xl shadow-md border border-cyan-400 space-y-5 text-white text-base  md:text-lg">
             <div>
               <span className="font-semibold text-cyan-400">Frontend:</span>{" "}
-              HTML, CSS, JavaScript, React, Tailwind CSS
+              HTML, Tailwind CSS, JavaScript, React.js
             </div>
             <div>
               <span className="font-semibold text-cyan-400">Backend:</span>{" "}
@@ -52,7 +52,7 @@ function Skill() {
             </div>
             <div>
               <span className="font-semibold text-cyan-400">Other:</span> Python
-              (Basics)
+              (Basics), SQL 
             </div>
           </div>
         </div>

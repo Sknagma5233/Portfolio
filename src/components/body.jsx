@@ -61,7 +61,7 @@ function Body() {
                 <i className="bx bxl-github"></i>
               </a>
               <a
-                href="https://www.linkedin.com/in/nagma-shaikh-2a1382321/"
+                href="https://www.linkedin.com/in/shaikhnagma5233/"
                 className="inline-flex justify-center items-center w-10 h-10 bg-transparent text-[#0ef] text-xl border-2 border-[#0ef] rounded-full m-7.5 mr-4 hover:bg-[#00eeffd0] hover:text-black hover:shadow-[0_0_10px_#0ef]"
               >
                 <i className="bx bxl-linkedin"></i>
